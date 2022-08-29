@@ -114,6 +114,8 @@ func helloWorld() {
 def helloWorld() {
     print('hello world! this function is also valid')
 }
+
+// ALL VALID
 ```
 
 ---
