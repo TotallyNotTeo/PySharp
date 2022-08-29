@@ -2,6 +2,7 @@
 
 # PySharp Documentation
 
+## PySharp is the Python language crossed with the syntax of C#, and various other syntax changes. I just liked the name PySharp. Don't judge me.
 
 (Assuming you have already [installed python](https://phoenixnap.com/kb/how-to-install-python-3-windows))
 
@@ -21,7 +22,7 @@ MAC/LINUX: ```sudo python3 interpreter.py fizzbuzz.pys``` //NB: You may need to 
 <div id="syntax"></div>
 
 ### 3. The sytax
-As implied by the name, PySharp is the Python language with parts of C# Syntax. Also, I just liked the name so some syntax may not be C# nor Python.
+As states above, PySharp is the Python language with parts of C# Syntax. Also, I just liked the name so some syntax may not be C# nor Python.
 
 <br>
 
