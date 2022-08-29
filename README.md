@@ -19,9 +19,13 @@ To run a file (e.g. the fizzbuzz example), simply open up a terminal, navigate t
 WINDOWS: ```py interpreter.py fizzbuzz.pys```\
 MAC/LINUX: ```sudo python3 interpreter.py fizzbuzz.pys``` //NB: You may need to enter your account password for mac and linux.
 
+### 3. Essentials
+In your PySharp file, you may call PYS.{modulename}.{function} where modulename is the name of any module in the essentials.py file - e.g. PYS.Time.sleep(3) to delay the program 3 seconds.\
+The essentials.py file is only imported if and when you call PYS, so as to not slow down your program unnecessarily.
+
 <div id="syntax"></div>
 
-### 3. The sytax
+### 4. The sytax
 As states above, PySharp is the Python language with parts of C# Syntax. Also, I just liked the name so some syntax may not be C# nor Python.
 
 <br>
