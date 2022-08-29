@@ -26,7 +26,7 @@ The essentials.py file is only imported if and when you call PYS, so as to not s
 <div id="syntax"></div>
 
 ### 4. The sytax
-As states above, PySharp is the Python language with parts of C# Syntax. Also, I just liked the name so some syntax may not be C# nor Python.
+As stated above, PySharp is the Python language with parts of C# Syntax. Also, I just liked the name so some syntax may not be C# nor Python.
 
 <br>
 
